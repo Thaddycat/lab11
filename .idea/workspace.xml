@@ -1,15 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="90670b8a-b8af-48e8-b944-6f9a107a1819" name="Changes" comment="" />
+    <list default="true" id="90670b8a-b8af-48e8-b944-6f9a107a1819" name="Changes" comment="initi">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mindmap_composite.py" beforeDir="false" afterPath="$PROJECT_DIR$/mindmap_composite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mindmap_leaf.py" beforeDir="false" afterPath="$PROJECT_DIR$/mindmap_leaf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_mindmap_composite.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_mindmap_composite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_mindmap_leaf.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_mindmap_leaf.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Thaddycat"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Thaddycat/lab11.git",
+    "accountId": "e555b510-cea8-4b99-9b6e-36f2701ce597"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -21,6 +51,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.main.executor": "Run",
+    "Python.mindmap_leaf.executor": "Run",
+    "Python.test_mindmap_composite.executor": "Run",
+    "Python.test_mindmap_leaf.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
