@@ -4,7 +4,7 @@ from mindmap_composite import MindMapComposite
 
 def main():
     if __name__ == "__main__":
-        # Root of the mindmap
+        print("mindmap\nroot", end="")
         root = MindMapComposite( "The Phoberon System ", "oval" )
 
         characters = MindMapComposite( "Astronomical Objects", "oval" )
