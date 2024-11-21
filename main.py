@@ -23,7 +23,7 @@ def main():
         root.add( plot_points )
 
         themes = MindMapComposite( "Ériuan Times of Day", "cloud" )
-        themes.add( MindMapLeaf( "Brightnight - Sky is lit by the general light of the distant Brown Dwarf with no Yellow Star in the sky (slightly more light than the brightest full moon on Earth)", "plain" ) )
+        themes.add( MindMapLeaf( "Brightnight - Sky is lit by the general light of the distant Brown Dwarf with no Yellow Star in the sky 'slightly more light than the brightest full moon on Earth'", "plain" ) )
         themes.add( MindMapLeaf( "Highnoon - Sky shines brilliantly with the light of the Yellow Star mixing with that of the distant Brown Dwarf", "plain" ) )
         themes.add( MindMapLeaf( "Highday - The sky burns hot with the light of the nearby Brown Dwarf in the same sky as the Yellow Star", "plain" ) )
         themes.add( MindMapLeaf( "Lowday - The warmth of the nearby Brown Dwarf with no Yellow Star permeates the sky", "plain" ) )
